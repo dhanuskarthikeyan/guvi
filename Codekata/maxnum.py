@@ -1,5 +1,5 @@
 a=int(input())
-b=[]
+ba=[]
 for x in raw_input().split()
-  b.append(int(x))
-print max(b)
+  ba.append(int(x))
+print max(ba)
