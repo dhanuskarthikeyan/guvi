@@ -1,5 +1,5 @@
 user =raw_input()
 if( user.isdigit()):
-  print("yes")
+  print("Yes")
 else:
   print("No")
