@@ -1,4 +1,4 @@
-user = input("Enter your number")
+user = input()
 if( user.isdigit()):
   print("yes")
 else:
