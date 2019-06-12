@@ -2,4 +2,4 @@ user = input()
 if( user.isdigit()):
   print("yes")
 else:
-  print("no")
+  print("No")
