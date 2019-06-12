@@ -1,2 +1,2 @@
 numch=raw_input()
-print len(a)
+print len(numch)
