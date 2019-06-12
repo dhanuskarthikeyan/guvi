@@ -1,2 +1,2 @@
-a=raw_input()
+numch=raw_input()
 print len(a)
