@@ -6,6 +6,6 @@ for i in range(0,len(n)):
   else:
     break
 if i==len(n)-1 :
-  print "yes"
+  print "Yes"
 else :
-  print "no"
+  print "No"
