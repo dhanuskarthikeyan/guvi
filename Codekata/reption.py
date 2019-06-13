@@ -1,5 +1,5 @@
-a,b=(raw_input().split())
-a=int(a)
+a1,b=(raw_input().split())
+a=int(a1)
 b=int(b)
 temp=list(map(int,raw_input().split()))
 print(temp.count(b))
