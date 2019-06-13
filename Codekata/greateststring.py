@@ -1,7 +1,5 @@
-ab=raw_input().split()
-if len(ab[0])==len(ab[1]):
-    print ab[0]
-elif len(ab[0]) > len(ab[1]):
-    print ab[0]
+a1,b1 = input().split()
+if(a1 > b1):
+  print(a1)
 else:
-    print ab[1]
+  print(b1)
