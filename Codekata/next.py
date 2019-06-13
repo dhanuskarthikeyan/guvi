@@ -1,2 +1,2 @@
-x=int(raw_input())
-print x+1
+xa3=int(raw_input())
+print xa3+1
