@@ -4,8 +4,8 @@ n=int(n)
 num=n+num
 if(num>=0):
   if(num%2==0):
-    print "Even"
+    print "even"
   else:
-    print "Odd"
+    print "odd"
 else:
   print "invalid"
