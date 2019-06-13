@@ -9,6 +9,6 @@ for i in range(0,len(n)):
   else:
     continue
 if ko>=1 and co>=1:
-  print "yes"
+  print "Yes"
 else :
-  print "no"
+  print "No"
