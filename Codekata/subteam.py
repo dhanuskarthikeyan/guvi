@@ -1,0 +1,5 @@
+num,n=(raw_input().split())
+num=int(num)
+n=int(n)
+num=abs(n-num)
+print (num)
